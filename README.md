@@ -1,5 +1,5 @@
 # Loppuprojekti
-## <Sofia Konola>**Web-tehtävä**
+##<Sofia Konola>Web-tehtävä
 # Kursivointi ja lihavointi
 Writing in Markdown is _not_ that hard!
 
